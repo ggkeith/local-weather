@@ -1,2 +1,6 @@
 # local-weather
-local weather viewer--free code camp
+
+Building a Local Weather viewer using Open Weather API
+
+Free Code Camp
+
