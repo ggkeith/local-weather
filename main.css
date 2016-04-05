@@ -44,3 +44,10 @@ table {
 }
 
 /************Custom Styles****************/
+#tempDiv {
+  margin: 0 auto;
+  height: 300px;
+  width: 300px;
+  background-color: pink;
+  border-radius: 10%;
+}
